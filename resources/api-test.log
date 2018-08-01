@@ -1,0 +1,38 @@
+2018-08-01 12:02:44 INFO  SimpleGetTest:33 - Response Body is =>  
+2018-08-01 12:02:45 INFO  SimpleGetTest:41 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+}
+2018-08-01 12:02:54 INFO  SimpleGetTest:33 - Response Body is =>  
+2018-08-01 12:02:55 INFO  SimpleGetTest:41 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+}
+2018-08-01 12:03:32 INFO  SimpleGetTest:33 - Test
+2018-08-01 12:03:33 INFO  SimpleGetTest:41 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+}
+2018-08-01 12:03:33 INFO  SimpleGetTest:42 - Test is finished
+2018-08-01 12:09:05 INFO  SimpleGetTest:33 - Test
+2018-08-01 12:09:07 INFO  SimpleGetTest:41 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+}
+2018-08-01 12:09:07 INFO  SimpleGetTest:42 - Test is finished
