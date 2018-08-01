@@ -36,3 +36,594 @@
     "WindDirectionDegree": "300 Degree"
 }
 2018-08-01 12:09:07 INFO  SimpleGetTest:42 - Test is finished
+2018-08-01 14:24:51 INFO  SimpleGetTest:34 - Test
+2018-08-01 14:24:53 INFO  SimpleGetTest:42 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31.5 Degree celsius",
+    "Humidity": "55 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "7.2 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 14:24:53 INFO  SimpleGetTest:47 - Test is finished
+2018-08-01 14:26:59 INFO  SimpleGetTest:34 - Test
+2018-08-01 14:27:01 INFO  SimpleGetTest:42 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31.5 Degree celsius",
+    "Humidity": "55 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "7.2 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 14:27:01 INFO  SimpleGetTest:47 - Status Code : 200
+2018-08-01 14:27:01 INFO  SimpleGetTest:48 - Test is finished
+2018-08-01 14:43:21 INFO  GetWeatherDetailsInvalidCityTest:21 - Status Code : 200
+2018-08-01 14:43:21 INFO  GetWeatherDetailsInvalidCityTest:22 - Test is finished
+2018-08-01 14:43:35 INFO  GetWeatherDetailsInvalidCityTest:21 - Status Code : 200
+2018-08-01 14:43:35 INFO  GetWeatherDetailsInvalidCityTest:22 - Test is finished
+2018-08-01 14:44:03 INFO  GetWeatherDetailsInvalidCityTest:21 - Status Code : 200
+2018-08-01 14:44:03 INFO  GetWeatherDetailsInvalidCityTest:22 - Test is finished
+2018-08-01 14:44:05 INFO  GetWeatherDetailsInvalidCityTest:36 - Status Code : HTTP/1.1 200 OK
+2018-08-01 14:44:05 INFO  GetWeatherDetailsInvalidCityTest:37 - Test is finished
+2018-08-01 14:45:57 INFO  GetWeatherDetailsInvalidCityTest:21 - Status Code : 200
+2018-08-01 14:45:57 INFO  GetWeatherDetailsInvalidCityTest:22 - Test is finished
+2018-08-01 14:45:58 INFO  GetWeatherDetailsInvalidCityTest:36 - Status Code : HTTP/1.1 200 OK
+2018-08-01 14:45:58 INFO  GetWeatherDetailsInvalidCityTest:37 - Test is finished
+2018-08-01 14:46:49 INFO  GetWeatherDetailsInvalidCityTest:36 - Status Code : HTTP/1.1 200 OK
+2018-08-01 14:46:49 INFO  GetWeatherDetailsInvalidCityTest:37 - Test is finished
+2018-08-01 14:47:00 INFO  GetWeatherDetailsInvalidCityTest:21 - Status Code : 200
+2018-08-01 14:47:00 INFO  GetWeatherDetailsInvalidCityTest:22 - Test is finished
+2018-08-01 14:47:03 INFO  GetWeatherDetailsInvalidCityTest:36 - Status Code : HTTP/1.1 200 OK
+2018-08-01 14:47:03 INFO  GetWeatherDetailsInvalidCityTest:37 - Test is finished
+2018-08-01 14:52:18 INFO  SimpleGetTest:34 - Test
+2018-08-01 14:52:21 INFO  SimpleGetTest:42 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31.5 Degree celsius",
+    "Humidity": "55 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "7.2 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 14:52:21 INFO  SimpleGetTest:47 - Status Code : 200
+2018-08-01 14:52:21 INFO  SimpleGetTest:48 - Test is finished
+2018-08-01 14:52:25 INFO  GetWeatherDetailsInvalidCityTest:26 - Status Code : HTTP/1.1 200 OK
+2018-08-01 14:52:25 INFO  GetWeatherDetailsInvalidCityTest:27 - Test is finished
+2018-08-01 15:07:30 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 15:07:30 INFO  GetWeatherDetailsInvalidCityTest:13 - testBeforeSuite()
+2018-08-01 15:07:30 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 15:07:30 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 15:07:31 INFO  SimpleGetTest:50 - Test
+2018-08-01 15:07:34 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31.5 Degree celsius",
+    "Humidity": "55 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "7.2 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 15:07:34 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 15:07:34 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 15:07:34 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 15:07:34 INFO  GetWeatherDetailsInvalidCityTest:22 - testBeforeTest()
+2018-08-01 15:07:35 INFO  GetWeatherDetailsInvalidCityTest:27 - testAfterTest()
+2018-08-01 15:07:35 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 15:07:37 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 15:07:37 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 15:07:37 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 15:07:37 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 15:07:37 INFO  GetWeatherDetailsInvalidCityTest:18 - testAfterSuite()
+2018-08-01 15:07:37 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 15:08:17 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 15:08:17 INFO  GetWeatherDetailsInvalidCityTest:13 - testBeforeSuite()
+2018-08-01 15:08:17 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 15:08:17 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 15:08:18 INFO  SimpleGetTest:50 - Test
+2018-08-01 15:08:22 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "29.01 Degree celsius",
+    "Humidity": "74 Percent",
+    "WeatherDescription": "light rain",
+    "WindSpeed": "4.1 Km per hour",
+    "WindDirectionDegree": "350 Degree"
+}
+2018-08-01 15:08:22 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 15:08:22 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 15:08:22 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 15:08:22 INFO  GetWeatherDetailsInvalidCityTest:22 - testBeforeTest()
+2018-08-01 15:08:26 INFO  GetWeatherDetailsInvalidCityTest:38 - Status Code : 200
+2018-08-01 15:08:26 INFO  GetWeatherDetailsInvalidCityTest:39 - Test is finished
+2018-08-01 15:08:26 INFO  GetWeatherDetailsInvalidCityTest:27 - testAfterTest()
+2018-08-01 15:08:26 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 15:08:28 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 15:08:28 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 15:08:28 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 15:08:28 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 15:08:28 INFO  GetWeatherDetailsInvalidCityTest:18 - testAfterSuite()
+2018-08-01 15:08:28 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 15:08:59 INFO  GetWeatherDetailsInvalidCityTest:13 - testBeforeSuite()
+2018-08-01 15:08:59 INFO  GetWeatherDetailsInvalidCityTest:22 - testBeforeTest()
+2018-08-01 15:09:03 INFO  GetWeatherDetailsInvalidCityTest:38 - Status Code : 200
+2018-08-01 15:09:03 INFO  GetWeatherDetailsInvalidCityTest:39 - Test is finished
+2018-08-01 15:09:03 INFO  GetWeatherDetailsInvalidCityTest:27 - testAfterTest()
+2018-08-01 15:09:03 INFO  GetWeatherDetailsInvalidCityTest:18 - testAfterSuite()
+2018-08-01 15:09:31 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 15:09:31 INFO  GetWeatherDetailsInvalidCityTest:13 - testBeforeSuite()
+2018-08-01 15:09:31 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 15:09:31 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 15:09:32 INFO  SimpleGetTest:50 - Test
+2018-08-01 15:09:35 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "29.01 Degree celsius",
+    "Humidity": "74 Percent",
+    "WeatherDescription": "light rain",
+    "WindSpeed": "4.1 Km per hour",
+    "WindDirectionDegree": "350 Degree"
+}
+2018-08-01 15:09:35 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 15:09:35 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 15:09:35 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 15:09:35 INFO  GetWeatherDetailsInvalidCityTest:22 - testBeforeTest()
+2018-08-01 15:09:37 INFO  GetWeatherDetailsInvalidCityTest:38 - Status Code : 200
+2018-08-01 15:09:37 INFO  GetWeatherDetailsInvalidCityTest:39 - Test is finished
+2018-08-01 15:09:37 INFO  GetWeatherDetailsInvalidCityTest:27 - testAfterTest()
+2018-08-01 15:09:37 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 15:09:40 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 15:09:40 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 15:09:40 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 15:09:40 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 15:09:40 INFO  GetWeatherDetailsInvalidCityTest:18 - testAfterSuite()
+2018-08-01 15:09:40 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 15:09:58 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 15:09:58 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 15:09:58 INFO  GetWeatherDetailsInvalidCityTest:13 - testBeforeSuite()
+2018-08-01 15:09:58 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 15:09:59 INFO  SimpleGetTest:50 - Test
+2018-08-01 15:10:01 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "29.01 Degree celsius",
+    "Humidity": "74 Percent",
+    "WeatherDescription": "light rain",
+    "WindSpeed": "4.1 Km per hour",
+    "WindDirectionDegree": "350 Degree"
+}
+2018-08-01 15:10:01 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 15:10:01 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 15:10:01 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 15:10:01 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 15:10:02 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 15:10:02 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 15:10:02 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 15:10:02 INFO  GetWeatherDetailsInvalidCityTest:22 - testBeforeTest()
+2018-08-01 15:10:04 INFO  GetWeatherDetailsInvalidCityTest:38 - Status Code : 200
+2018-08-01 15:10:04 INFO  GetWeatherDetailsInvalidCityTest:39 - Test is finished
+2018-08-01 15:10:04 INFO  GetWeatherDetailsInvalidCityTest:27 - testAfterTest()
+2018-08-01 15:10:04 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 15:10:04 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 15:10:04 INFO  GetWeatherDetailsInvalidCityTest:18 - testAfterSuite()
+2018-08-01 15:16:00 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 15:16:00 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 15:16:03 INFO  GetWeatherDetailsInvalidCityTest:50 - Status Code : gzip
+2018-08-01 15:16:03 INFO  GetWeatherDetailsInvalidCityTest:51 - Test is finished
+2018-08-01 15:16:03 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 15:16:03 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 15:17:05 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 15:17:05 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 15:17:12 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 15:17:12 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 15:17:27 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 15:17:27 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 15:17:32 INFO  GetWeatherDetailsInvalidCityTest:51 - Status Code : gzip
+2018-08-01 15:17:32 INFO  GetWeatherDetailsInvalidCityTest:52 - Test is finished
+2018-08-01 15:17:32 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 15:17:32 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 15:18:24 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 15:18:24 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 15:18:27 INFO  GetWeatherDetailsInvalidCityTest:41 - Status Code : application/json
+2018-08-01 15:18:27 INFO  GetWeatherDetailsInvalidCityTest:46 - Status Code : nginx/1.12.2
+2018-08-01 15:18:27 INFO  GetWeatherDetailsInvalidCityTest:51 - Status Code : gzip
+2018-08-01 15:18:27 INFO  GetWeatherDetailsInvalidCityTest:52 - Test is finished
+2018-08-01 15:18:27 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 15:18:27 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 15:18:45 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 15:18:45 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 15:18:50 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : application/json
+2018-08-01 15:18:50 INFO  GetWeatherDetailsInvalidCityTest:48 - Status Code : nginx/1.12.2
+2018-08-01 15:18:50 INFO  GetWeatherDetailsInvalidCityTest:53 - Status Code : gzip
+2018-08-01 15:18:50 INFO  GetWeatherDetailsInvalidCityTest:54 - Test is finished
+2018-08-01 15:18:50 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 15:18:50 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 15:24:58 INFO  BasicAuthenticationFlowTest:14 - testBeforeSuite()
+2018-08-01 15:24:58 INFO  BasicAuthenticationFlowTest:23 - testBeforeTest()
+2018-08-01 15:25:00 INFO  BasicAuthenticationFlowTest:39 - Status code: 401
+2018-08-01 15:25:00 INFO  BasicAuthenticationFlowTest:40 - Status message {
+    "StatusID": "FAULT_USER_INVALID_USER_PASSWORD",
+    "Status": "Invalid or expired Authentication key provided"
+}
+2018-08-01 15:25:00 INFO  BasicAuthenticationFlowTest:28 - testAfterTest()
+2018-08-01 15:25:00 INFO  BasicAuthenticationFlowTest:19 - testAfterSuite()
+2018-08-01 15:39:52 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 15:39:52 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 15:39:52 INFO  GetWeatherDetailsInvalidCityTest:13 - testBeforeSuite()
+2018-08-01 15:39:52 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 15:39:52 INFO  SimpleGetTest:50 - Test
+2018-08-01 15:39:54 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 15:39:54 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 15:39:54 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 15:39:54 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 15:39:54 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 15:39:55 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 15:39:55 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 15:39:55 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 15:39:55 INFO  GetWeatherDetailsInvalidCityTest:22 - testBeforeTest()
+2018-08-01 15:39:55 INFO  GetWeatherDetailsInvalidCityTest:38 - Status Code : 200
+2018-08-01 15:39:55 INFO  GetWeatherDetailsInvalidCityTest:39 - Test is finished
+2018-08-01 15:39:55 INFO  GetWeatherDetailsInvalidCityTest:27 - testAfterTest()
+2018-08-01 15:39:55 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 15:39:55 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 15:39:55 INFO  GetWeatherDetailsInvalidCityTest:18 - testAfterSuite()
+2018-08-01 15:55:09 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 15:55:09 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 15:55:09 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 15:55:09 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 15:55:09 INFO  SimpleGetTest:50 - Test
+2018-08-01 15:55:11 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 15:55:11 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 15:55:11 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 15:55:11 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 15:55:11 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 15:55:12 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 15:55:12 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 15:55:12 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 15:55:12 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 15:55:14 INFO  GetWeatherDetailsInvalidCityTest:39 - Status Code : 200
+2018-08-01 15:55:14 INFO  GetWeatherDetailsInvalidCityTest:40 - Test is finished
+2018-08-01 15:55:14 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 15:55:14 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 15:55:14 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 15:55:14 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 15:55:24 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 15:55:24 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 15:55:24 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 15:55:24 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 15:55:25 INFO  SimpleGetTest:50 - Test
+2018-08-01 15:55:26 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 15:55:26 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 15:55:26 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 15:55:26 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 15:55:26 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 15:55:27 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 15:55:27 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 15:55:27 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 15:55:27 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 15:55:28 INFO  GetWeatherDetailsInvalidCityTest:39 - Status Code : 200
+2018-08-01 15:55:28 INFO  GetWeatherDetailsInvalidCityTest:40 - Test is finished
+2018-08-01 15:55:28 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 15:55:28 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 15:55:28 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 15:55:28 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 15:55:43 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 15:55:43 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 15:55:43 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 15:55:43 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 15:55:44 INFO  SimpleGetTest:50 - Test
+2018-08-01 15:55:45 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 15:55:45 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 15:55:45 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 15:55:45 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 15:55:45 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 15:55:46 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 15:55:46 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 15:55:46 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 15:55:46 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 15:55:47 INFO  GetWeatherDetailsInvalidCityTest:39 - Status Code : 200
+2018-08-01 15:55:47 INFO  GetWeatherDetailsInvalidCityTest:40 - Test is finished
+2018-08-01 15:55:47 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 15:55:47 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 15:55:47 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 15:55:47 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 15:56:26 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 15:56:26 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 15:56:26 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 15:56:26 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 15:56:26 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 15:56:26 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 15:56:27 INFO  SimpleGetTest:50 - Test
+2018-08-01 15:56:29 INFO  GetWeatherDetailsInvalidCityTest:39 - Status Code : 200
+2018-08-01 15:56:29 INFO  GetWeatherDetailsInvalidCityTest:40 - Test is finished
+2018-08-01 15:56:29 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 15:56:29 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 15:56:29 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 15:56:29 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 15:56:29 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 15:56:29 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 15:56:29 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 15:56:29 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 15:56:29 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 15:56:29 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 15:56:29 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 15:56:52 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 15:56:52 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 15:56:52 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 15:56:52 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 15:56:53 INFO  SimpleGetTest:50 - Test
+2018-08-01 15:56:55 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 15:56:55 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 15:56:55 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 15:56:55 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 15:56:55 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 15:56:56 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 15:56:56 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 15:56:56 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 15:56:56 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 15:56:58 INFO  GetWeatherDetailsInvalidCityTest:39 - Status Code : 200
+2018-08-01 15:56:58 INFO  GetWeatherDetailsInvalidCityTest:40 - Test is finished
+2018-08-01 15:56:58 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 15:56:58 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 15:56:58 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 15:56:58 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 16:00:32 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 16:00:32 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 16:00:34 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 16:00:34 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 16:00:34 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 16:00:34 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 16:02:21 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 16:02:21 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 16:02:21 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 16:02:21 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 16:02:21 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 16:02:22 INFO  SimpleGetTest:50 - Test
+2018-08-01 16:02:25 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 16:02:25 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 16:02:25 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 16:02:26 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 16:02:26 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 16:02:26 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 16:02:26 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 16:02:26 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 16:02:27 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 16:02:27 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 16:02:27 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 16:02:27 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 16:02:29 INFO  GetWeatherDetailsInvalidCityTest:39 - Status Code : 200
+2018-08-01 16:02:29 INFO  GetWeatherDetailsInvalidCityTest:40 - Test is finished
+2018-08-01 16:02:29 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 16:02:29 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 16:02:29 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 16:02:29 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 16:02:44 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 16:02:44 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 16:02:44 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 16:02:44 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 16:02:44 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 16:02:45 INFO  SimpleGetTest:50 - Test
+2018-08-01 16:02:50 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 16:02:50 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 16:02:50 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 16:02:51 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 16:02:51 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 16:02:51 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 16:02:51 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 16:02:51 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 16:02:52 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 16:02:52 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 16:02:52 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 16:02:52 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 16:02:53 INFO  GetWeatherDetailsInvalidCityTest:39 - Status Code : 200
+2018-08-01 16:02:53 INFO  GetWeatherDetailsInvalidCityTest:40 - Test is finished
+2018-08-01 16:02:53 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 16:02:53 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 16:02:53 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 16:02:53 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 16:03:27 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeSuite()
+2018-08-01 16:03:27 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 16:03:27 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 16:03:27 INFO  GetWeatherDetailsInvalidCityTest:24 - testBeforeTest()
+2018-08-01 16:03:27 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 16:03:28 INFO  SimpleGetTest:50 - Test
+2018-08-01 16:03:29 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 16:03:29 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 16:03:29 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 16:03:30 INFO  GetWeatherDetailsInvalidCityTest:43 - Status Code : HTTP/1.1 200 OK
+2018-08-01 16:03:30 INFO  GetWeatherDetailsInvalidCityTest:44 - Test is finished
+2018-08-01 16:03:30 INFO  GetWeatherDetailsInvalidCityTest:29 - testAfterTest()
+2018-08-01 16:03:30 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 16:03:30 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 16:03:31 INFO  GetWeatherDetailsInvalidCityTest:39 - Status Code : 200
+2018-08-01 16:03:31 INFO  GetWeatherDetailsInvalidCityTest:40 - Test is finished
+2018-08-01 16:03:31 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 16:03:31 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterSuite()
+2018-08-01 16:03:31 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 16:03:31 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 16:04:24 INFO  GetWeatherDetailsInvalidCityTest:14 - testBeforeSuite()
+2018-08-01 16:04:24 INFO  SimpleGetTest:16 - testBeforeSuite()
+2018-08-01 16:04:24 INFO  BasicAuthenticationFlowTest:14 - testBeforeSuite()
+2018-08-01 16:04:24 INFO  GetWeatherDetailsInvalidCityTest:23 - testBeforeTest()
+2018-08-01 16:04:24 INFO  SimpleGetTest:25 - testBeforeTest()
+2018-08-01 16:04:25 INFO  SimpleGetTest:50 - Test
+2018-08-01 16:04:27 INFO  SimpleGetTest:58 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 16:04:27 INFO  SimpleGetTest:63 - Status Code : 200
+2018-08-01 16:04:27 INFO  SimpleGetTest:64 - Test is finished
+2018-08-01 16:04:29 INFO  GetWeatherDetailsInvalidCityTest:39 - Status Code : 200
+2018-08-01 16:04:29 INFO  GetWeatherDetailsInvalidCityTest:40 - Test is finished
+2018-08-01 16:04:29 INFO  GetWeatherDetailsInvalidCityTest:28 - testAfterTest()
+2018-08-01 16:04:29 INFO  SimpleGetTest:30 - testAfterTest()
+2018-08-01 16:04:29 INFO  BasicAuthenticationFlowTest:23 - testBeforeTest()
+2018-08-01 16:04:30 INFO  BasicAuthenticationFlowTest:39 - Status code: 401
+2018-08-01 16:04:30 INFO  BasicAuthenticationFlowTest:40 - Status message {
+    "StatusID": "FAULT_USER_INVALID_USER_PASSWORD",
+    "Status": "Invalid or expired Authentication key provided"
+}
+2018-08-01 16:04:30 INFO  BasicAuthenticationFlowTest:28 - testAfterTest()
+2018-08-01 16:04:30 INFO  GetWeatherDetailsInvalidCityTest:19 - testAfterSuite()
+2018-08-01 16:04:30 INFO  SimpleGetTest:21 - testAfterSuite()
+2018-08-01 16:04:30 INFO  BasicAuthenticationFlowTest:19 - testAfterSuite()
+2018-08-01 16:06:09 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeTest()
+2018-08-01 16:06:09 INFO  SimpleGetTest:16 - testBeforeTest()
+2018-08-01 16:06:09 INFO  SimpleGetTest:41 - Test
+2018-08-01 16:06:11 INFO  SimpleGetTest:49 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 16:06:11 INFO  SimpleGetTest:54 - Status Code : 200
+2018-08-01 16:06:11 INFO  SimpleGetTest:55 - Test is finished
+2018-08-01 16:06:12 INFO  GetWeatherDetailsInvalidCityTest:31 - Status Code : 200
+2018-08-01 16:06:12 INFO  GetWeatherDetailsInvalidCityTest:32 - Test is finished
+2018-08-01 16:06:12 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterTest()
+2018-08-01 16:06:12 INFO  SimpleGetTest:21 - testAfterTest()
+2018-08-01 16:06:12 INFO  BasicAuthenticationFlowTest:15 - testBeforeTest()
+2018-08-01 16:06:13 INFO  BasicAuthenticationFlowTest:31 - Status code: 401
+2018-08-01 16:06:13 INFO  BasicAuthenticationFlowTest:32 - Status message {
+    "StatusID": "FAULT_USER_INVALID_USER_PASSWORD",
+    "Status": "Invalid or expired Authentication key provided"
+}
+2018-08-01 16:06:13 INFO  BasicAuthenticationFlowTest:20 - testAfterTest()
+2018-08-01 16:07:37 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeTest()
+2018-08-01 16:07:37 INFO  SimpleGetTest:16 - testBeforeTest()
+2018-08-01 16:07:38 INFO  SimpleGetTest:41 - Test
+2018-08-01 16:07:40 INFO  SimpleGetTest:49 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 16:07:40 INFO  SimpleGetTest:54 - Status Code : 200
+2018-08-01 16:07:40 INFO  SimpleGetTest:55 - Test is finished
+2018-08-01 16:07:40 INFO  GetWeatherDetailsInvalidCityTest:32 - Test is finished
+2018-08-01 16:07:40 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterTest()
+2018-08-01 16:07:40 INFO  SimpleGetTest:21 - testAfterTest()
+2018-08-01 16:07:40 INFO  BasicAuthenticationFlowTest:15 - testBeforeTest()
+2018-08-01 16:07:40 INFO  BasicAuthenticationFlowTest:31 - Status code: 401
+2018-08-01 16:07:40 INFO  BasicAuthenticationFlowTest:32 - Status message {
+    "StatusID": "FAULT_USER_INVALID_USER_PASSWORD",
+    "Status": "Invalid or expired Authentication key provided"
+}
+2018-08-01 16:07:40 INFO  BasicAuthenticationFlowTest:20 - testAfterTest()
+2018-08-01 16:08:02 INFO  SimpleGetTest:16 - testBeforeTest()
+2018-08-01 16:08:03 INFO  SimpleGetTest:41 - Test
+2018-08-01 16:08:05 INFO  SimpleGetTest:49 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.53 Degree celsius",
+    "Humidity": "94 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 16:08:05 INFO  SimpleGetTest:54 - Status Code : 200
+2018-08-01 16:08:05 INFO  SimpleGetTest:55 - Test is finished
+2018-08-01 16:08:05 INFO  SimpleGetTest:21 - testAfterTest()
+2018-08-01 16:08:05 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeTest()
+2018-08-01 16:08:05 INFO  GetWeatherDetailsInvalidCityTest:32 - Test is finished
+2018-08-01 16:08:05 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterTest()
+2018-08-01 16:28:29 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-01 16:28:30 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-01 16:35:21 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-01 16:35:21 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-01 16:36:04 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-01 16:36:04 INFO  GetWeatherDetailsInvalidCityTest:36 - Status Code : HTTP/1.1 200 OK
+2018-08-01 16:36:04 INFO  GetWeatherDetailsInvalidCityTest:37 - Test is finished
+2018-08-01 16:36:04 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-01 16:37:46 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-01 16:37:46 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.01 Degree celsius",
+    "Humidity": "83 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "3.1 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 16:37:46 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-01 16:37:46 INFO  SimpleGetTest:57 - Test is finished
+2018-08-01 16:37:46 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-01 16:38:10 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-01 16:38:10 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "27.01 Degree celsius",
+    "Humidity": "83 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "3.1 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-01 16:38:10 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-01 16:38:10 INFO  SimpleGetTest:57 - Test is finished
+2018-08-01 16:38:10 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-01 16:38:11 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-01 16:38:11 INFO  GetWeatherDetailsInvalidCityTest:36 - Status Code : HTTP/1.1 200 OK
+2018-08-01 16:38:11 INFO  GetWeatherDetailsInvalidCityTest:37 - Test is finished
+2018-08-01 16:38:11 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()

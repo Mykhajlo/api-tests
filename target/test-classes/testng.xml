@@ -8,5 +8,11 @@
             <class name="com.adyax.api.automation.tests.SimpleGetTest"/>
         </classes>
     </test>
+    <test name="Test_2">
+        <classes>
+            <class name="com.adyax.api.automation.tests.GetWeatherStatusLineTest"/>
+        </classes>
+    </test>
+
 
 </suite>
