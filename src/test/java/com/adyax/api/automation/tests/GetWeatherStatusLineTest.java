@@ -10,7 +10,7 @@ import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-import static com.adyax.api.automation.Utils.testSite;
+import static com.adyax.api.automation.Utils.*;
 
 public class GetWeatherStatusLineTest extends  MainTest {
     private static final Logger LOGGER = Logger.getLogger(GetWeatherDetailsInvalidCityTest.class);
@@ -28,8 +28,6 @@ public class GetWeatherStatusLineTest extends  MainTest {
     @Test
     public void GetWeatherStatusLine()
     {
-
-
         // Get the status line from the Response and store it in a variable called statusLine
         String statusLine = response.getStatusLine();
         Assert.assertEquals(statusLine /*actual value*/, "HTTP/1.1 200 OK" /*expected value*/, "Correct status code returned");

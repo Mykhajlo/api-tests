@@ -627,3 +627,258 @@
 2018-08-01 16:38:11 INFO  GetWeatherDetailsInvalidCityTest:36 - Status Code : HTTP/1.1 200 OK
 2018-08-01 16:38:11 INFO  GetWeatherDetailsInvalidCityTest:37 - Test is finished
 2018-08-01 16:38:11 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-02 09:58:10 INFO  BasicAuthenticationFlowTest:15 - testBeforeTest()
+2018-08-02 09:58:12 INFO  BasicAuthenticationFlowTest:31 - Status code: 401
+2018-08-02 09:58:12 INFO  BasicAuthenticationFlowTest:32 - Status message {
+    "StatusID": "FAULT_USER_INVALID_USER_PASSWORD",
+    "Status": "Invalid or expired Authentication key provided"
+}
+2018-08-02 09:58:12 INFO  BasicAuthenticationFlowTest:20 - testAfterTest()
+2018-08-02 10:04:02 INFO  BasicAuthenticationFlowTest:15 - testBeforeTest()
+2018-08-02 10:04:04 INFO  BasicAuthenticationFlowTest:31 - Status code: 401
+2018-08-02 10:04:04 INFO  BasicAuthenticationFlowTest:32 - Status message {
+    "StatusID": "FAULT_USER_INVALID_USER_PASSWORD",
+    "Status": "Invalid or expired Authentication key provided"
+}
+2018-08-02 10:04:04 INFO  BasicAuthenticationFlowTest:20 - testAfterTest()
+2018-08-02 10:06:26 INFO  BasicAuthenticationFlowTest:15 - testBeforeTest()
+2018-08-02 10:06:28 INFO  BasicAuthenticationFlowTest:31 - Status code: 200
+2018-08-02 10:06:28 INFO  BasicAuthenticationFlowTest:32 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-02 10:06:28 INFO  BasicAuthenticationFlowTest:20 - testAfterTest()
+2018-08-02 12:04:10 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-02 12:04:10 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "29 Degree celsius",
+    "Humidity": "70 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "270 Degree"
+}
+2018-08-02 12:04:10 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-02 12:04:10 INFO  SimpleGetTest:57 - Test is finished
+2018-08-02 12:04:10 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-02 12:04:11 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-02 12:04:11 INFO  GetWeatherDetailsInvalidCityTest:36 - Status Code : HTTP/1.1 200 OK
+2018-08-02 12:04:11 INFO  GetWeatherDetailsInvalidCityTest:37 - Test is finished
+2018-08-02 12:04:11 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-02 14:22:07 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-02 14:22:07 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "6.7 Km per hour",
+    "WindDirectionDegree": "280 Degree"
+}
+2018-08-02 14:22:07 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-02 14:22:07 INFO  SimpleGetTest:57 - Test is finished
+2018-08-02 14:22:07 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-02 14:22:08 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-02 14:22:08 INFO  GetWeatherDetailsInvalidCityTest:36 - Status Code : HTTP/1.1 200 OK
+2018-08-02 14:22:08 INFO  GetWeatherDetailsInvalidCityTest:37 - Test is finished
+2018-08-02 14:22:08 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-02 14:48:49 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-02 14:48:49 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "6.2 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2018-08-02 14:48:49 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-02 14:48:49 INFO  SimpleGetTest:57 - Test is finished
+2018-08-02 14:48:49 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-02 14:48:49 INFO  BasicAuthenticationFlowTest:15 - testBeforeTest()
+2018-08-02 14:48:50 INFO  BasicAuthenticationFlowTest:31 - Status code: 200
+2018-08-02 14:48:50 INFO  BasicAuthenticationFlowTest:32 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-02 14:48:50 INFO  BasicAuthenticationFlowTest:20 - testAfterTest()
+2018-08-02 14:49:28 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-02 14:49:28 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "6.2 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2018-08-02 14:49:28 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-02 14:49:28 INFO  SimpleGetTest:57 - Test is finished
+2018-08-02 14:49:28 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-02 14:49:28 INFO  BasicAuthenticationFlowTest:15 - testBeforeTest()
+2018-08-02 14:49:29 INFO  BasicAuthenticationFlowTest:31 - Status code: 200
+2018-08-02 14:49:29 INFO  BasicAuthenticationFlowTest:32 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-02 14:49:29 INFO  BasicAuthenticationFlowTest:20 - testAfterTest()
+2018-08-02 14:50:18 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-02 14:50:18 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "6.2 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2018-08-02 14:50:18 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-02 14:50:18 INFO  SimpleGetTest:57 - Test is finished
+2018-08-02 14:50:18 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-02 14:50:18 INFO  BasicAuthenticationFlowTest:15 - testBeforeTest()
+2018-08-02 14:50:19 INFO  BasicAuthenticationFlowTest:31 - Status code: 200
+2018-08-02 14:50:19 INFO  BasicAuthenticationFlowTest:32 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-02 14:50:19 INFO  BasicAuthenticationFlowTest:20 - testAfterTest()
+2018-08-02 14:50:19 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-02 14:50:19 INFO  GetWeatherDetailsInvalidCityTest:36 - Status Code : HTTP/1.1 200 OK
+2018-08-02 14:50:19 INFO  GetWeatherDetailsInvalidCityTest:37 - Test is finished
+2018-08-02 14:50:19 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-02 14:51:21 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-02 14:51:21 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "6.2 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2018-08-02 14:51:21 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-02 14:51:21 INFO  SimpleGetTest:57 - Test is finished
+2018-08-02 14:51:21 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-02 14:51:21 INFO  BasicAuthenticationFlowTest:15 - testBeforeTest()
+2018-08-02 14:51:22 INFO  BasicAuthenticationFlowTest:31 - Status code: 200
+2018-08-02 14:51:22 INFO  BasicAuthenticationFlowTest:32 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-02 14:51:22 INFO  BasicAuthenticationFlowTest:20 - testAfterTest()
+2018-08-02 14:51:22 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeTest()
+2018-08-02 14:51:23 INFO  GetWeatherDetailsInvalidCityTest:35 - Status Code : application/json
+2018-08-02 14:51:23 INFO  GetWeatherDetailsInvalidCityTest:40 - Status Code : nginx/1.12.2
+2018-08-02 14:51:23 INFO  GetWeatherDetailsInvalidCityTest:45 - Status Code : gzip
+2018-08-02 14:51:23 INFO  GetWeatherDetailsInvalidCityTest:46 - Test is finished
+2018-08-02 14:51:23 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterTest()
+2018-08-02 14:52:57 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-02 14:52:57 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "6.2 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2018-08-02 14:52:57 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-02 14:52:57 INFO  SimpleGetTest:57 - Test is finished
+2018-08-02 14:52:57 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-02 14:52:57 INFO  BasicAuthenticationFlowTest:15 - testBeforeTest()
+2018-08-02 14:52:58 INFO  BasicAuthenticationFlowTest:31 - Status code: 200
+2018-08-02 14:52:58 INFO  BasicAuthenticationFlowTest:32 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-02 14:52:58 INFO  BasicAuthenticationFlowTest:20 - testAfterTest()
+2018-08-02 14:52:58 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeTest()
+2018-08-02 14:53:00 INFO  GetWeatherDetailsInvalidCityTest:35 - Status Code : application/json
+2018-08-02 14:53:00 INFO  GetWeatherDetailsInvalidCityTest:40 - Status Code : nginx/1.12.2
+2018-08-02 14:53:00 INFO  GetWeatherDetailsInvalidCityTest:45 - Status Code : gzip
+2018-08-02 14:53:00 INFO  GetWeatherDetailsInvalidCityTest:46 - Test is finished
+2018-08-02 14:53:00 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterTest()
+2018-08-02 14:53:00 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeTest()
+2018-08-02 14:53:01 INFO  GetWeatherDetailsInvalidCityTest:35 - Status Code : application/json
+2018-08-02 14:53:01 INFO  GetWeatherDetailsInvalidCityTest:40 - Status Code : nginx/1.12.2
+2018-08-02 14:53:01 INFO  GetWeatherDetailsInvalidCityTest:45 - Status Code : gzip
+2018-08-02 14:53:01 INFO  GetWeatherDetailsInvalidCityTest:46 - Test is finished
+2018-08-02 14:53:01 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterTest()
+2018-08-02 15:04:54 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeTest()
+2018-08-02 15:04:56 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-02 15:04:56 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "6.2 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2018-08-02 15:04:56 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-02 15:04:56 INFO  SimpleGetTest:57 - Test is finished
+2018-08-02 15:04:57 INFO  GetWeatherDetailsInvalidCityTest:35 - Status Code : application/json
+2018-08-02 15:04:57 INFO  GetWeatherDetailsInvalidCityTest:40 - Status Code : nginx/1.12.2
+2018-08-02 15:04:57 INFO  GetWeatherDetailsInvalidCityTest:45 - Status Code : gzip
+2018-08-02 15:04:57 INFO  GetWeatherDetailsInvalidCityTest:46 - Test is finished
+2018-08-02 15:04:57 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterTest()
+2018-08-02 15:04:57 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-02 15:04:57 INFO  BasicAuthenticationFlowTest:15 - testBeforeTest()
+2018-08-02 15:04:57 INFO  BasicAuthenticationFlowTest:31 - Status code: 200
+2018-08-02 15:04:57 INFO  BasicAuthenticationFlowTest:32 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-02 15:04:57 INFO  BasicAuthenticationFlowTest:20 - testAfterTest()
+2018-08-02 15:04:57 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeTest()
+2018-08-02 15:04:58 INFO  GetWeatherDetailsInvalidCityTest:35 - Status Code : application/json
+2018-08-02 15:04:58 INFO  GetWeatherDetailsInvalidCityTest:40 - Status Code : nginx/1.12.2
+2018-08-02 15:04:58 INFO  GetWeatherDetailsInvalidCityTest:45 - Status Code : gzip
+2018-08-02 15:04:58 INFO  GetWeatherDetailsInvalidCityTest:46 - Test is finished
+2018-08-02 15:04:58 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterTest()
+2018-08-02 15:04:58 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeTest()
+2018-08-02 15:04:59 INFO  GetWeatherDetailsInvalidCityTest:35 - Status Code : application/json
+2018-08-02 15:04:59 INFO  GetWeatherDetailsInvalidCityTest:40 - Status Code : nginx/1.12.2
+2018-08-02 15:04:59 INFO  GetWeatherDetailsInvalidCityTest:45 - Status Code : gzip
+2018-08-02 15:04:59 INFO  GetWeatherDetailsInvalidCityTest:46 - Test is finished
+2018-08-02 15:04:59 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterTest()
+2018-08-02 15:22:40 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-02 15:22:40 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "31 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2018-08-02 15:22:40 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-02 15:22:40 INFO  SimpleGetTest:57 - Test is finished
+2018-08-02 15:22:40 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-02 15:22:43 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-02 15:22:43 INFO  GetWeatherDetailsInvalidCityTest:36 - Status Code : HTTP/1.1 200 OK
+2018-08-02 15:22:43 INFO  GetWeatherDetailsInvalidCityTest:37 - Test is finished
+2018-08-02 15:22:43 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-02 15:22:43 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeTest()
+2018-08-02 15:22:45 INFO  GetWeatherDetailsInvalidCityTest:35 - Status Code : application/json
+2018-08-02 15:22:45 INFO  GetWeatherDetailsInvalidCityTest:40 - Status Code : nginx/1.12.2
+2018-08-02 15:22:45 INFO  GetWeatherDetailsInvalidCityTest:45 - Status Code : gzip
+2018-08-02 15:22:45 INFO  GetWeatherDetailsInvalidCityTest:46 - Test is finished
+2018-08-02 15:22:45 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterTest()
+2018-08-02 15:22:45 INFO  GetWeatherDetailsInvalidCityTest:15 - testBeforeTest()
+2018-08-02 15:22:45 INFO  GetWeatherDetailsInvalidCityTest:32 - Test is finished
+2018-08-02 15:22:45 INFO  GetWeatherDetailsInvalidCityTest:20 - testAfterTest()
+2018-08-02 15:22:45 INFO  BasicAuthenticationFlowTest:15 - testBeforeTest()
+2018-08-02 15:22:47 INFO  BasicAuthenticationFlowTest:31 - Status code: 200
+2018-08-02 15:22:47 INFO  BasicAuthenticationFlowTest:32 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-02 15:22:47 INFO  BasicAuthenticationFlowTest:20 - testAfterTest()

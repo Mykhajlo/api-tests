@@ -7,11 +7,14 @@ import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-public class BasicAuthenticationFlowTest {
+import static com.adyax.api.automation.Utils.testSite;
+
+public class BasicAuthenticationFlowTest extends  MainTest {
     private static final Logger LOGGER = Logger.getLogger(BasicAuthenticationFlowTest.class);
 
-    @BeforeTest
-    public void testBeforeTest() {
+    @BeforeClass
+    public void testBeforeTest() throws InterruptedException {
+        //response = testSite();
         LOGGER.info("testBeforeTest()");
     }
 
@@ -22,11 +25,11 @@ public class BasicAuthenticationFlowTest {
     @Test
     public void AuthenticationBasics()
     {
-        System.err.close();
-        System.setErr(System.out);
+       // System.err.close();
+       // System.setErr(System.out);
         RestAssured.baseURI = "http://restapi.demoqa.com/authentication/CheckForAuthentication";
         RequestSpecification request = RestAssured.given();
-
+        request.auth().preemptive().basic("ToolsQA", "TestPassword");
         Response response = request.get();
         LOGGER.info("Status code: " + response.getStatusCode());
         LOGGER.info("Status message " + response.body().asString());

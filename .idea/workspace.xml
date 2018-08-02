@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5907aad6-f755-4eec-b4dd-8c6928476d87" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/BasicAuthenticationFlowTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherDetailsInvalidCityTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherHeadersTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherStatusLineTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/MainTest.java" />
+    <list default="true" id="5907aad6-f755-4eec-b4dd-8c6928476d87" name="Default" comment="[002] - update , updated base testNG 02-08-2018">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/api-test.log" afterPath="$PROJECT_DIR$/api-test.log" />
       <change beforePath="$PROJECT_DIR$/resources/api-test.log" afterPath="$PROJECT_DIR$/resources/api-test.log" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/Utils.java" afterPath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/Utils.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/SimpleGetTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/SimpleGetTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/BasicAuthenticationFlowTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/BasicAuthenticationFlowTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherDetailsInvalidCityTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherDetailsInvalidCityTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherHeadersTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherHeadersTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherStatusLineTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherStatusLineTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/adyax/api/automation/Utils.class" afterPath="$PROJECT_DIR$/target/test-classes/com/adyax/api/automation/Utils.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/adyax/api/automation/tests/SimpleGetTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/adyax/api/automation/tests/SimpleGetTest.class" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,33 +41,12 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="433">
+              <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
               <folding>
                 <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
                 <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
-                <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="api-test.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api-test.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -78,7 +54,7 @@
       <file leaf-file-name="SimpleGetTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/SimpleGetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="459">
               <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -92,32 +68,44 @@
       <file leaf-file-name="GetWeatherStatusLineTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherStatusLineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="127">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#752#753#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
+      <file leaf-file-name="GetWeatherDetailsInvalidCityTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherDetailsInvalidCityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="314">
+              <caret line="29" column="63" lean-forward="true" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BasicAuthenticationFlowTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/BasicAuthenticationFlowTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,15 +137,16 @@
         <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/SimpleGetTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/Listener.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherHeadersTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/BasicAuthenticationFlowTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherDetailsInvalidCityTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherStatusLineTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/SimpleGetTest.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/Utils.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherStatusLineTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherHeadersTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherDetailsInvalidCityTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/BasicAuthenticationFlowTest.java" />
       </list>
     </option>
   </component>
@@ -179,13 +168,18 @@
           <item name="api-tests" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="api-tests" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="33" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -207,7 +201,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,13 +254,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="apitests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -342,7 +340,7 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="BasicAuthenticationFlowTest.AuthenticationBasics" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicAuthenticationFlowTest.AuthenticationBasics (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.adyax.api.automation.tests.*" />
@@ -401,7 +399,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="GetWeatherStatusLineTest.GetWeatherStatusLine (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GetWeatherDetailsInvalidCityTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.adyax.api.automation.tests.*" />
@@ -413,8 +411,40 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.adyax.api.automation.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.adyax.api.automation.tests.GetWeatherStatusLineTest" />
-      <option name="METHOD_NAME" value="GetWeatherStatusLine" />
+      <option name="MAIN_CLASS_NAME" value="com.adyax.api.automation.tests.GetWeatherDetailsInvalidCityTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="GetWeatherDetailsInvalidCityTest.GetInvalidCityTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.adyax.api.automation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="apitests" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.adyax.api.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.adyax.api.automation.tests.GetWeatherDetailsInvalidCityTest" />
+      <option name="METHOD_NAME" value="GetInvalidCityTest" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -433,7 +463,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="GetWeatherStatusLineTest.GetWeatherStatusLine" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GetWeatherHeadersTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.adyax.api.automation.tests.*" />
@@ -445,42 +475,10 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.adyax.api.automation.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.adyax.api.automation.tests.GetWeatherStatusLineTest" />
-      <option name="METHOD_NAME" value="GetWeatherStatusLine" />
+      <option name="MAIN_CLASS_NAME" value="com.adyax.api.automation.tests.GetWeatherHeadersTest" />
+      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="SimpleGetTest.GetWeatherDetails" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.adyax.api.automation.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="apitests" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.adyax.api.automation.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.adyax.api.automation.tests.SimpleGetTest" />
-      <option name="METHOD_NAME" value="GetWeatherDetails" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -532,18 +530,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/adyax-021/IdeaProjects/apitests/src/test/resources/testng.xml" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.BasicAuthenticationFlowTest.AuthenticationBasics" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.GetWeatherStatusLineTest.GetWeatherStatusLine" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.GetWeatherStatusLineTest.GetWeatherStatusLine (1)" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.SimpleGetTest.GetWeatherDetails" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.BasicAuthenticationFlowTest.AuthenticationBasics (2)" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.GetWeatherHeadersTest" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.GetWeatherDetailsInvalidCityTest" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.GetWeatherDetailsInvalidCityTest.GetInvalidCityTest" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/adyax-021/IdeaProjects/apitests/src/test/resources/testng.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.SimpleGetTest.GetWeatherDetails" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.GetWeatherStatusLineTest.GetWeatherStatusLine (1)" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.GetWeatherStatusLineTest.GetWeatherStatusLine" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.BasicAuthenticationFlowTest.AuthenticationBasics" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.BasicAuthenticationFlowTest.AuthenticationBasics (2)" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.GetWeatherDetailsInvalidCityTest.GetInvalidCityTest" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.GetWeatherDetailsInvalidCityTest" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.GetWeatherHeadersTest" />
       </list>
     </recent_temporary>
   </component>
@@ -563,47 +561,56 @@
       <workItem from="1533106033453" duration="432000" />
       <workItem from="1533107247197" duration="2479000" />
       <workItem from="1533110221367" duration="893000" />
-      <workItem from="1533111450057" duration="12834000" />
+      <workItem from="1533111450057" duration="13076000" />
+      <workItem from="1533191785629" duration="12034000" />
     </task>
+    <task id="LOCAL-00001" summary="[001] - added some tests, updated base classes 01-08-2018">
+      <created>1533131798733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533131798733</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_adyax-021_IdeaProjects_apitests_src_test_resources_testng_xml - 2018.08.01 at 16h 03m 32s.xml">
+    <history-entry file="BasicAuthenticationFlowTest_AuthenticationBasics_(2) - 2018.08.02 at 15h 31m 40s.xml">
+      <configuration name="BasicAuthenticationFlowTest.AuthenticationBasics (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_adyax-021_IdeaProjects_apitests_src_test_resources_testng_xml - 2018.08.02 at 14h 53m 01s.xml">
       <configuration name="C:/Users/adyax-021/IdeaProjects/apitests/src/test/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_adyax-021_IdeaProjects_apitests_src_test_resources_testng_xml - 2018.08.01 at 16h 04m 30s.xml">
+    <history-entry file="C__Users_adyax-021_IdeaProjects_apitests_src_test_resources_testng_xml - 2018.08.02 at 15h 04m 59s.xml">
       <configuration name="C:/Users/adyax-021/IdeaProjects/apitests/src/test/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_adyax-021_IdeaProjects_apitests_src_test_resources_testng_xml - 2018.08.01 at 16h 06m 13s.xml">
+    <history-entry file="C__Users_adyax-021_IdeaProjects_apitests_src_test_resources_testng_xml - 2018.08.02 at 15h 21m 57s.xml">
       <configuration name="C:/Users/adyax-021/IdeaProjects/apitests/src/test/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_adyax-021_IdeaProjects_apitests_src_test_resources_testng_xml - 2018.08.01 at 16h 07m 41s.xml">
+    <history-entry file="C__Users_adyax-021_IdeaProjects_apitests_src_test_resources_testng_xml - 2018.08.02 at 15h 22m 47s.xml">
       <configuration name="C:/Users/adyax-021/IdeaProjects/apitests/src/test/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_adyax-021_IdeaProjects_apitests_src_test_resources_testng_xml - 2018.08.01 at 16h 08m 06s.xml">
+    <history-entry file="C__Users_adyax-021_IdeaProjects_apitests_src_test_resources_testng_xml - 2018.08.02 at 15h 24m 00s.xml">
       <configuration name="C:/Users/adyax-021/IdeaProjects/apitests/src/test/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_adyax-021_IdeaProjects_apitests_src_test_resources_testng_xml - 2018.08.01 at 16h 38m 12s.xml">
+    <history-entry file="C__Users_adyax-021_IdeaProjects_apitests_src_test_resources_testng_xml - 2018.08.02 at 15h 31m 56s.xml">
       <configuration name="C:/Users/adyax-021/IdeaProjects/apitests/src/test/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GetWeatherStatusLineTest_GetWeatherStatusLine - 2018.08.01 at 16h 28m 30s.xml">
-      <configuration name="GetWeatherStatusLineTest.GetWeatherStatusLine" configurationId="TestNG" />
+    <history-entry file="GetWeatherDetailsInvalidCityTest - 2018.08.02 at 15h 29m 21s.xml">
+      <configuration name="GetWeatherDetailsInvalidCityTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GetWeatherStatusLineTest_GetWeatherStatusLine - 2018.08.01 at 16h 35m 21s.xml">
-      <configuration name="GetWeatherStatusLineTest.GetWeatherStatusLine" configurationId="TestNG" />
+    <history-entry file="GetWeatherDetailsInvalidCityTest_GetInvalidCityTest - 2018.08.02 at 15h 30m 25s.xml">
+      <configuration name="GetWeatherDetailsInvalidCityTest.GetInvalidCityTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GetWeatherStatusLineTest_GetWeatherStatusLine_(1) - 2018.08.01 at 16h 36m 05s.xml">
-      <configuration name="GetWeatherStatusLineTest.GetWeatherStatusLine (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SimpleGetTest_GetWeatherDetails - 2018.08.01 at 16h 37m 47s.xml">
-      <configuration name="SimpleGetTest.GetWeatherDetails" configurationId="TestNG" />
+    <history-entry file="GetWeatherHeadersTest - 2018.08.02 at 15h 27m 54s.xml">
+      <configuration name="GetWeatherHeadersTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16638000" />
+    <option name="totallyTimeSpent" value="28914000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-9" y="33" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -614,25 +621,25 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -642,7 +649,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="[001] - added some tests, updated base classes 01-08-2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="[001] - added some tests, updated base classes 01-08-2018" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -651,12 +659,80 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/SimpleGetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherStatusLineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" column="43" lean-forward="true" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
           <folding>
             <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -704,7 +780,6 @@
           <folding>
             <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -736,7 +811,6 @@
           <folding>
             <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -750,26 +824,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/куыщгксуы.properties" />
-    <entry file="file://$PROJECT_DIR$/apitests.iml">
+    <entry file="file://$PROJECT_DIR$/src/test/rtere.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/Listener.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/rtere.properties">
+    <entry file="file://$PROJECT_DIR$/apitests.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/Listener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2167">
-          <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -782,64 +850,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherHeadersTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="433">
+          <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
+            <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/BasicAuthenticationFlowTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/SimpleGetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="459">
+          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherDetailsInvalidCityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -852,42 +889,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/SimpleGetTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        <state relative-caret-position="255">
+          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherHeadersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherStatusLineTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="127">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/Utils.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/GetWeatherDetailsInvalidCityTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="314">
+          <caret line="29" column="63" lean-forward="true" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adyax/api/automation/tests/BasicAuthenticationFlowTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
