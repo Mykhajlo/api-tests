@@ -33,5 +33,6 @@ public class BasicAuthenticationFlowTest extends  MainTest {
         Response response = request.get();
         LOGGER.info("Status code: " + response.getStatusCode());
         LOGGER.info("Status message " + response.body().asString());
+        LOGGER.info("Test is finished" );
     }
 }
