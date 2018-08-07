@@ -7,6 +7,7 @@ import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.Gson;
 import com.jayway.restassured.RestAssured;
+import com.jayway.restassured.path.json.JsonPath;
 import com.jayway.restassured.response.Response;
 import com.jayway.restassured.specification.RequestSpecification;
 import org.apache.log4j.Logger;
@@ -34,19 +35,9 @@ public class DeserializeJsonResponceToArrayTest {
         LOGGER.info("testAfterTest()");
     }
     @Test
-    public void DeserializeJsonToArrayTest (){
+    public void DeserializeJsonToArrayTest () throws IOException {
 
 
-
-        //Book targetObject = new Gson().fromJson(jsonjhj, Book.class);
-
-
-     //   LOGGER.info("Books as String " + targetObject.title + targetObject.isbn);
-
-
-
-
-        ObjectMapper mapper = new ObjectMapper();
 
             RestAssured.baseURI = "http://restapi.demoqa.com/utilities/books/getallbooks";
             //RestAssured.baseURI = "https://jsonplaceholder.typicode.com/users";
@@ -54,33 +45,25 @@ public class DeserializeJsonResponceToArrayTest {
 
             Response response = request.get("");
             String json = response.body().asString();
+            JsonPath jsonPath = new JsonPath(json);
+           // LOGGER.info(json);
 
-            //LOGGER.info("Response Body -> " + json);
+            //LOGGER.info("Response Body -> " + allBooks.toString());
             LOGGER.info("*********************Book********************");
-           // Book jsonFrom = mapper.readValue(json, "books",Book.class);
 
-            //myProduct = objectMapper.readValue(productJson, new TypeReference<List<product>>() {});
-            List<String> jsonResponse = response.jsonPath().getList("books");
-            LOGGER.info(jsonResponse.size());
-            LOGGER.info(jsonResponse);
 
-            //List<Book> jsonFrom = response.jsonPath().getList("books", Book.class);
-            //LOGGER.info("Total responses = " + jsonFrom);
+       /// HashMap<String,Book> result = new ObjectMapper().readValue(json, Book.class);
 
-           /* TreeSet<Book> Products = new TreeSet<>();
 
-            for (int i = 0; i < Book.size(); i++) {
+        //Map<Integer, Book> book = jsonPathEvaluator.getMap("books", Integer.class, Book.class);
 
-                Book book = new Book(responses[i], warranties[i], prices[i], webElementPrices.get(i));
+        //List<String> book = jsonPath.from(json).getList("books.findAll { it.pages < 1000 }");
+        List<Book> books = response.jsonPath().getList("books", Book.class);
 
-                Products.add(book);
+       //List<Book> book = response.jsonPath().getList("books.findAll{ books -> books.pages >= 5 && books.pages <= 1500 }", Book.class);
 
-                //LOGGER.info(Good.toString());
-
-            } */
-
-           // LOGGER.info(jsonFrom.toString());
-
+        //LOGGER.info(books.size());
+          //  LOGGER.info(books);
 
     }
 }
