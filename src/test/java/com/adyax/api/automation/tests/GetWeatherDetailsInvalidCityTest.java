@@ -30,7 +30,7 @@ public class GetWeatherDetailsInvalidCityTest extends  MainTest {
         RequestSpecification httpRequest = RestAssured.given();
         Response response = httpRequest.get("/544545445");
         int statusCode = response.getStatusCode();
-        Assert.assertEquals(statusCode /*actual value*/, 200 /*expected value*/, "Correct status code returned");
+        Assert.assertEquals(statusCode /*actual value*/, 400 /*expected value*/, "Correct status code returned");
         LOGGER.info("Status Code : " + statusCode);
         LOGGER.info("Test is finished" );
     }

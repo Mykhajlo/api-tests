@@ -8559,3 +8559,201 @@
 2018-08-07 16:33:22 INFO  DeserializeJsonResponceToArrayTest:30 - testBeforeTest()
 2018-08-07 16:33:24 INFO  DeserializeJsonResponceToArrayTest:52 - *********************Book********************
 2018-08-07 16:33:25 INFO  DeserializeJsonResponceToArrayTest:35 - testAfterTest()
+2018-08-09 14:40:30 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-09 14:40:30 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "28.03 Degree celsius",
+    "Humidity": "100 Percent",
+    "WeatherDescription": "mist",
+    "WindSpeed": "1.5 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-09 14:40:30 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-09 14:40:30 INFO  SimpleGetTest:57 - Test is finished
+2018-08-09 14:40:30 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-09 14:40:31 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-09 14:40:31 INFO  GetWeatherDetailsInvalidCityTest:34 - Status Code : HTTP/1.1 200 OK
+2018-08-09 14:40:31 INFO  GetWeatherDetailsInvalidCityTest:35 - Test is finished
+2018-08-09 14:40:31 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-09 14:40:32 INFO  GetWeatherDetailsInvalidCityTest:18 - testBeforeTest()
+2018-08-09 14:40:32 INFO  GetWeatherDetailsInvalidCityTest:31 - Content Type : application/json
+2018-08-09 14:40:32 INFO  GetWeatherDetailsInvalidCityTest:23 - testAfterTest()
+2018-08-09 14:40:32 INFO  GetWeatherDetailsInvalidCityTest:18 - testBeforeTest()
+2018-08-09 14:40:33 INFO  GetWeatherDetailsInvalidCityTest:23 - testAfterTest()
+2018-08-09 14:40:33 INFO  BasicAuthenticationFlowTest:18 - testBeforeTest()
+2018-08-09 14:40:34 INFO  BasicAuthenticationFlowTest:34 - Status code: 200
+2018-08-09 14:40:34 INFO  BasicAuthenticationFlowTest:35 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-09 14:40:34 INFO  BasicAuthenticationFlowTest:36 - Test is finished
+2018-08-09 14:40:34 INFO  BasicAuthenticationFlowTest:23 - testAfterTest()
+2018-08-09 14:40:47 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-09 14:40:47 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "28.03 Degree celsius",
+    "Humidity": "100 Percent",
+    "WeatherDescription": "mist",
+    "WindSpeed": "1.5 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-09 14:40:47 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-09 14:40:47 INFO  SimpleGetTest:57 - Test is finished
+2018-08-09 14:40:47 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-09 14:40:47 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-09 14:40:47 INFO  GetWeatherDetailsInvalidCityTest:34 - Status Code : HTTP/1.1 200 OK
+2018-08-09 14:40:47 INFO  GetWeatherDetailsInvalidCityTest:35 - Test is finished
+2018-08-09 14:40:47 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-09 14:40:48 INFO  GetWeatherDetailsInvalidCityTest:18 - testBeforeTest()
+2018-08-09 14:40:48 INFO  GetWeatherDetailsInvalidCityTest:31 - Content Type : application/json
+2018-08-09 14:40:48 INFO  GetWeatherDetailsInvalidCityTest:23 - testAfterTest()
+2018-08-09 14:40:48 INFO  GetWeatherDetailsInvalidCityTest:18 - testBeforeTest()
+2018-08-09 14:40:49 INFO  GetWeatherDetailsInvalidCityTest:23 - testAfterTest()
+2018-08-09 14:40:49 INFO  BasicAuthenticationFlowTest:18 - testBeforeTest()
+2018-08-09 14:40:49 INFO  BasicAuthenticationFlowTest:34 - Status code: 200
+2018-08-09 14:40:49 INFO  BasicAuthenticationFlowTest:35 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-09 14:40:49 INFO  BasicAuthenticationFlowTest:36 - Test is finished
+2018-08-09 14:40:49 INFO  BasicAuthenticationFlowTest:23 - testAfterTest()
+2018-08-09 14:41:33 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-09 14:41:33 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "28.03 Degree celsius",
+    "Humidity": "100 Percent",
+    "WeatherDescription": "mist",
+    "WindSpeed": "1.5 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-09 14:41:33 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-09 14:41:33 INFO  SimpleGetTest:57 - Test is finished
+2018-08-09 14:41:33 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-09 14:41:34 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-09 14:41:34 INFO  GetWeatherDetailsInvalidCityTest:34 - Status Code : HTTP/1.1 200 OK
+2018-08-09 14:41:34 INFO  GetWeatherDetailsInvalidCityTest:35 - Test is finished
+2018-08-09 14:41:34 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-09 14:41:34 INFO  GetWeatherDetailsInvalidCityTest:18 - testBeforeTest()
+2018-08-09 14:41:34 INFO  GetWeatherDetailsInvalidCityTest:31 - Content Type : application/json
+2018-08-09 14:41:34 INFO  GetWeatherDetailsInvalidCityTest:36 - Server Type : nginx/1.14.0
+2018-08-09 14:41:34 INFO  GetWeatherDetailsInvalidCityTest:41 - Content Encoding : gzip
+2018-08-09 14:41:34 INFO  GetWeatherDetailsInvalidCityTest:42 - Test is finished
+2018-08-09 14:41:34 INFO  GetWeatherDetailsInvalidCityTest:23 - testAfterTest()
+2018-08-09 14:41:34 INFO  GetWeatherDetailsInvalidCityTest:18 - testBeforeTest()
+2018-08-09 14:41:35 INFO  GetWeatherDetailsInvalidCityTest:23 - testAfterTest()
+2018-08-09 14:41:35 INFO  BasicAuthenticationFlowTest:18 - testBeforeTest()
+2018-08-09 14:41:36 INFO  BasicAuthenticationFlowTest:34 - Status code: 200
+2018-08-09 14:41:36 INFO  BasicAuthenticationFlowTest:35 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-09 14:41:36 INFO  BasicAuthenticationFlowTest:36 - Test is finished
+2018-08-09 14:41:36 INFO  BasicAuthenticationFlowTest:23 - testAfterTest()
+2018-08-09 14:43:20 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-09 14:43:20 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "28.03 Degree celsius",
+    "Humidity": "100 Percent",
+    "WeatherDescription": "mist",
+    "WindSpeed": "1.5 Km per hour",
+    "WindDirectionDegree": "330 Degree"
+}
+2018-08-09 14:43:20 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-09 14:43:20 INFO  SimpleGetTest:57 - Test is finished
+2018-08-09 14:43:20 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-09 14:43:21 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-09 14:43:21 INFO  GetWeatherDetailsInvalidCityTest:34 - Status Code : HTTP/1.1 200 OK
+2018-08-09 14:43:21 INFO  GetWeatherDetailsInvalidCityTest:35 - Test is finished
+2018-08-09 14:43:21 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-09 14:43:22 INFO  GetWeatherDetailsInvalidCityTest:18 - testBeforeTest()
+2018-08-09 14:43:22 INFO  GetWeatherDetailsInvalidCityTest:31 - Content Type : application/json
+2018-08-09 14:43:22 INFO  GetWeatherDetailsInvalidCityTest:36 - Server Type : nginx/1.14.0
+2018-08-09 14:43:22 INFO  GetWeatherDetailsInvalidCityTest:41 - Content Encoding : gzip
+2018-08-09 14:43:22 INFO  GetWeatherDetailsInvalidCityTest:42 - Test is finished
+2018-08-09 14:43:22 INFO  GetWeatherDetailsInvalidCityTest:23 - testAfterTest()
+2018-08-09 14:43:22 INFO  GetWeatherDetailsInvalidCityTest:18 - testBeforeTest()
+2018-08-09 14:43:22 INFO  GetWeatherDetailsInvalidCityTest:34 - Status Code : 400
+2018-08-09 14:43:22 INFO  GetWeatherDetailsInvalidCityTest:35 - Test is finished
+2018-08-09 14:43:22 INFO  GetWeatherDetailsInvalidCityTest:23 - testAfterTest()
+2018-08-09 14:43:22 INFO  BasicAuthenticationFlowTest:18 - testBeforeTest()
+2018-08-09 14:43:23 INFO  BasicAuthenticationFlowTest:34 - Status code: 200
+2018-08-09 14:43:23 INFO  BasicAuthenticationFlowTest:35 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-09 14:43:23 INFO  BasicAuthenticationFlowTest:36 - Test is finished
+2018-08-09 14:43:23 INFO  BasicAuthenticationFlowTest:23 - testAfterTest()
+2018-08-09 15:44:33 INFO  SimpleGetTest:18 - testBeforeTest()
+2018-08-09 15:44:33 INFO  SimpleGetTest:51 - Response Body is =>  {
+    "City": "Hyderabad",
+    "Temperature": "26.5 Degree celsius",
+    "Humidity": "88 Percent",
+    "WeatherDescription": "mist moderate rain",
+    "WindSpeed": "3.1 Km per hour",
+    "WindDirectionDegree": "10 Degree"
+}
+2018-08-09 15:44:33 INFO  SimpleGetTest:56 - Status Code : 200
+2018-08-09 15:44:33 INFO  SimpleGetTest:57 - Test is finished
+2018-08-09 15:44:33 INFO  SimpleGetTest:23 - testAfterTest()
+2018-08-09 15:44:34 INFO  GetWeatherDetailsInvalidCityTest:21 - testBeforeTest()
+2018-08-09 15:44:34 INFO  GetWeatherDetailsInvalidCityTest:34 - Status Code : HTTP/1.1 200 OK
+2018-08-09 15:44:34 INFO  GetWeatherDetailsInvalidCityTest:35 - Test is finished
+2018-08-09 15:44:34 INFO  GetWeatherDetailsInvalidCityTest:26 - testAfterTest()
+2018-08-09 15:44:35 INFO  GetWeatherDetailsInvalidCityTest:18 - testBeforeTest()
+2018-08-09 15:44:35 INFO  GetWeatherDetailsInvalidCityTest:31 - Content Type : application/json
+2018-08-09 15:44:35 INFO  GetWeatherDetailsInvalidCityTest:36 - Server Type : nginx/1.14.0
+2018-08-09 15:44:35 INFO  GetWeatherDetailsInvalidCityTest:41 - Content Encoding : gzip
+2018-08-09 15:44:35 INFO  GetWeatherDetailsInvalidCityTest:42 - Test is finished
+2018-08-09 15:44:35 INFO  GetWeatherDetailsInvalidCityTest:23 - testAfterTest()
+2018-08-09 15:44:35 INFO  GetWeatherDetailsInvalidCityTest:18 - testBeforeTest()
+2018-08-09 15:44:35 INFO  GetWeatherDetailsInvalidCityTest:34 - Status Code : 400
+2018-08-09 15:44:35 INFO  GetWeatherDetailsInvalidCityTest:35 - Test is finished
+2018-08-09 15:44:35 INFO  GetWeatherDetailsInvalidCityTest:23 - testAfterTest()
+2018-08-09 15:44:35 INFO  BasicAuthenticationFlowTest:18 - testBeforeTest()
+2018-08-09 15:44:36 INFO  BasicAuthenticationFlowTest:34 - Status code: 200
+2018-08-09 15:44:36 INFO  BasicAuthenticationFlowTest:35 - Status message {
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}
+2018-08-09 15:44:36 INFO  BasicAuthenticationFlowTest:36 - Test is finished
+2018-08-09 15:44:36 INFO  BasicAuthenticationFlowTest:23 - testAfterTest()
+2018-08-10 09:54:58 INFO  RestServiceTest:18 - testBeforeTest()
+2018-08-10 09:55:00 INFO  RestServiceTest:31 - Responce : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><customer><id>12212</id><firstName>John</firstName><lastName>Smith</lastName><address><street>1431 Main St</street><city>Beverly Hills</city><state>CA</state><zipCode>90210</zipCode></address><phoneNumber>310-447-4121</phoneNumber><ssn>622-11-9999</ssn></customer>
+2018-08-10 09:55:01 INFO  RestServiceTest:38 - customerId is corrrect12212
+2018-08-10 09:55:01 INFO  RestServiceTest:40 - FirstName is corrrectJohn
+2018-08-10 09:55:01 INFO  RestServiceTest:23 - testAfterTest()
+2018-08-10 09:56:04 INFO  RestServiceTest:18 - testBeforeTest()
+2018-08-10 09:56:07 INFO  RestServiceTest:31 - Responce : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><customer><id>12212</id><firstName>John</firstName><lastName>Smith</lastName><address><street>1431 Main St</street><city>Beverly Hills</city><state>CA</state><zipCode>90210</zipCode></address><phoneNumber>310-447-4121</phoneNumber><ssn>622-11-9999</ssn></customer>
+2018-08-10 09:56:07 INFO  RestServiceTest:38 - customerId is corrrect - 12212
+2018-08-10 09:56:07 INFO  RestServiceTest:40 - FirstName is corrrect - John
+2018-08-10 09:56:07 INFO  RestServiceTest:23 - testAfterTest()
+2018-08-10 09:56:25 INFO  RestServiceTest:18 - testBeforeTest()
+2018-08-10 09:56:27 INFO  RestServiceTest:31 - Responce : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><customer><id>12212</id><firstName>John</firstName><lastName>Smith</lastName><address><street>1431 Main St</street><city>Beverly Hills</city><state>CA</state><zipCode>90210</zipCode></address><phoneNumber>310-447-4121</phoneNumber><ssn>622-11-9999</ssn></customer>
+2018-08-10 09:56:27 INFO  RestServiceTest:38 - customerId is corrrect - 12212
+2018-08-10 09:56:27 INFO  RestServiceTest:40 - FirstName is corrrect - John
+2018-08-10 09:56:27 INFO  RestServiceTest:42 - LastName is corrrect - Smith
+2018-08-10 09:56:27 INFO  RestServiceTest:43 - Test is finished
+2018-08-10 09:56:27 INFO  RestServiceTest:23 - testAfterTest()
+2018-08-10 09:56:59 INFO  RestServiceTest:18 - testBeforeTest()
+2018-08-10 09:57:01 INFO  RestServiceTest:30 - Responce : com.jayway.restassured.internal.RestAssuredResponseImpl@74ad8d05
+2018-08-10 09:57:01 INFO  RestServiceTest:38 - customerId is corrrect - 12212
+2018-08-10 09:57:01 INFO  RestServiceTest:40 - FirstName is corrrect - John
+2018-08-10 09:57:01 INFO  RestServiceTest:42 - LastName is corrrect - Smith
+2018-08-10 09:57:01 INFO  RestServiceTest:43 - Test is finished
+2018-08-10 09:57:01 INFO  RestServiceTest:23 - testAfterTest()
+2018-08-10 13:45:03 INFO  RestServiceTest:19 - testBeforeTest()
+2018-08-10 13:45:06 INFO  RestServiceTest:38 - customerId is corrrect - 12212
+2018-08-10 13:45:06 INFO  RestServiceTest:40 - FirstName is corrrect - John
+2018-08-10 13:45:06 INFO  RestServiceTest:42 - LastName is corrrect - Smith
+2018-08-10 13:45:06 INFO  RestServiceTest:43 - Test is finished
+2018-08-10 13:45:06 INFO  RestServiceTest:24 - testAfterTest()

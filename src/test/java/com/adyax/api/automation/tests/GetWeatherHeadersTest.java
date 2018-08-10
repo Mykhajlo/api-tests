@@ -32,7 +32,7 @@ public class GetWeatherHeadersTest  extends  MainTest {
         // Reader header of a give name. In this line we will get
         // Header named Server
         String serverType =  response.header("Server");
-        Assert.assertEquals(serverType /* actual value */, "nginx/1.12.2" /* expected value */);
+        Assert.assertEquals(serverType /* actual value */, "nginx/1.14.0" /* expected value */);
         LOGGER.info("Server Type : " + serverType);
         // Reader header of a give name. In this line we will get
         // Header named Content-Encoding
